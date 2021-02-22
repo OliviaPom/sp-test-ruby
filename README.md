@@ -27,5 +27,5 @@
 - The tests cover the public methods in WebpageHistory class and also instance methods in the DisplayViews class.
 
 ### HOW TO USE
-- Run 'ruby lib/interface.rb' from the app directory.
-- Run rspec to check tests.
+- Run ```ruby lib/interface.rb``` from the app directory.
+- Run ```rspec``` to check tests.
